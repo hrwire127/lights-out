@@ -1,0 +1,20 @@
+.block
+{
+    height: 80px;
+    width: 80px;
+    border: 1px solid;
+    border-radius: 2px;
+    background-color: #1e2529;
+    transition: background-color 0.7s ease;
+    box-shadow: 0px 0px 10px -1px rgb(38, 0, 255);
+}
+.block:hover
+{
+    background-color: #3f6a81;
+}
+
+.lit
+{
+    background-color: #22cae0;
+    transition: background-color 0.7s ease;
+}
